@@ -3,6 +3,11 @@ body{
 
 }
 
+.normalHeader {
+	background:white;
+	color:black;
+}
+
 header {
 	background:#0066FF ;
 	color:white ;
